@@ -1,0 +1,23 @@
+# Explanation For CBC Anemia Project
+
+This Project Uses A Synthetic Dataset Named 'cbc_data_200.csv' Containing 200 Rows Of Blood Test Values Such As Hemoglobin, RBC, WBC, And Platelets, With An Anemia Label (0 = No Anemia, 1 = Anemia).  
+
+## Jupyter Notebook Workflow
+1. Data Creation And Saving As CSV.  
+2. Data Loading With Pandas.  
+3. Data Exploration With 'info()' And 'describe()'.  
+4. Visualization Using Matplotlib And Seaborn (Histograms, Boxplots, Scatter Plots).  
+5. Machine Learning Using Logistic Regression With Train-Test Split, Feature Scaling, Model Training, Predictions, And Evaluation.  
+
+## Visual Studio Code Workflow
+- The Workflow Is The Same But Written As A Single Python Script ('CBC-Anemia-Analysis.py').  
+- The Script Reads The 'cbc_data_200.csv' File, Performs Data Analysis, Visualizations, And Builds A Logistic Regression Model.  
+
+## Important Notes
+- Place The File 'cbc_data_200.csv' In The Same Folder As The Python Script Or Provide The Full Path.  
+- Stratified Train-Test Split Ensures Class Balance.  
+- StandardScaler Normalizes Data Before Training.  
+- Accuracy And Confusion Matrix Are Printed As Evaluation Metrics.  
+- This Code Can Be Run In Both Jupyter Notebook (Cell-Based) And Visual Studio Code (Single Script).  
+
+Thank You. 
