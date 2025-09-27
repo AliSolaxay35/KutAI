@@ -1,0 +1,15 @@
+This Code Named Turkic-Health-Allergy-Map Visualizes Health Data About Allergy And Sensitivity Rates In Turkic Countries.  
+The Code Uses Numpy, Pandas, Matplotlib, Seaborn, And Cartopy To Generate Maps And Charts.  
+A Csv File Named Turkic_Allergy_Data_Expanded.Csv Is Included So Users Can Directly Run And Test The Code.  
+
+Two Example Figures Generated From The Code Are Also Provided:  
+- THAM-Figure-1  
+- THAM-Figure-2  
+
+The Code Has Been Tested In Vs Code With The Anaconda Base Environment And Works Correctly.  
+In Jupyter Notebook Or Jupyterlab, There Might Be Issues Related To Pillow Or Matplotlib.  
+If You Encounter Errors, Please Report Them In The Repository Issues Section.  
+
+This Project Is Part Of Kutai Repository, Combining Data Science, Digital Health, And Turkic Culture.  
+
+Thank You. 
