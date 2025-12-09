@@ -1,0 +1,64 @@
+# Human-Microbiome-ML (Jupyter Notebook Version)
+
+This Jupyter Notebook Performs Unsupervised Machine Learning On Human Microbiome Taxonomy Data Using Classical Statistical And Machine Learning Techniques. The Notebook Applies Encoding, Dimensionality Reduction, Clustering, Evaluation, And Visualization In A Step-By-Step Research Workflow.
+
+## Techniques Used
+- One-Hot Encoding
+- Principal Component Analysis (PCA)
+- K-Means Clustering
+- Silhouette Score Evaluation
+- K-Fold Cross Validation
+- Heatmap Visualization
+
+## Notebook Highlights
+- Explore Microbiome Dataset
+- Transform Categorical Features
+- Reduce Dimensionality To Two Components
+- Cluster Organisms Based On Biology Similarity
+- Compare Different K Values
+- Visualize Correlation Heatmap And PCA Space
+
+## Why Notebook Version
+The Notebook Format Is Ideal For Interactive Analysis, Research, And Experimentation, Allowing Users To Evaluate The Process Cell-By-Cell And Analyze Biological Results With Full Visual Support.
+
+## Requirements
+Pandas  
+NumPy  
+Scikit-Learn  
+Matplotlib  
+Seaborn  
+
+## How To Run
+Open The File Named “Human-Microbiome-ML.ipynb” And Execute The Cells Sequentially To Observe The Results.
+
+# Human-Microbiome-ML (VS Code Python Script Version)
+
+This Python Script Performs Unsupervised Learning On Human Microbiome Taxonomy Data Using An Automated Pipeline That Includes Feature Encoding, Dimensionality Reduction, K-Means Clustering, Manual Grid Search, K-Fold Evaluation, And Visual Output Generation. Results And Figures Are Automatically Saved.
+
+## Techniques Used
+- Column Transformer Encoding
+- One-Hot Encoder
+- Principal Component Analysis (PCA)
+- K-Means Clustering (Multiple K Values)
+- Manual Grid Search Evaluation
+- Silhouette Scoring Metric
+- Heatmap Generation And Figure Saving
+
+## Output Files
+- Human-Microbiome-Gridsearch-Results.csv
+- Human-Microbiome-ML-Figure.png
+
+## Why Script Version
+The Script Version Runs Automatically Without Step-Wise Execution, Which Is More Suitable For Production Use, Automated Experiments, Repeated Evaluation, And Fast Processing Compared To Notebook Style Execution. It Is Also Designed To Be Executed Directly From The Terminal And Integrated With GitHub Repositories.
+
+## Requirements
+Pandas  
+NumPy  
+Scikit-Learn  
+Matplotlib  
+Seaborn  
+
+## How To Run From Terminal
+Python Human-Microbiome-ML.py
+
+Thank You. 
