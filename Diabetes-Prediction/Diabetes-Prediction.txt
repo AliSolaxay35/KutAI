@@ -1,0 +1,61 @@
+# Diabetes-Prediction (Jupyter Notebook Version)
+
+This Jupyter Notebook Performs Supervised Machine Learning To Predict Diabetes Diagnosis Based On Clinical Measurements Using The Pima Indians Diabetes Dataset. The Notebook Applies Preprocessing, Model Training, Evaluation, And Visualization In A Step-By-Step Workflow.
+
+## Techniques Used
+- Train-Test Split
+- Data Normalization
+- Random Forest Classification
+- Logistic Regression
+- Performance Metrics
+- Accuracy And Classification Report
+
+## Notebook Highlights
+- Load And Analyze Clinical Dataset
+- Select Features For Prediction
+- Train Multiple Machine Learning Models
+- Compare Model Performance
+- Evaluate Predictions Using Standard Metrics
+- Visualize Data Distribution
+
+## Why Notebook Version
+The Notebook Format Allows Interactive Learning, Experimentation, And Progressive Model Development. It Is Ideal For Research, Education, And Medical Data Understanding.
+
+## Requirements
+Pandas  
+NumPy  
+Scikit-Learn  
+Matplotlib  
+
+## How To Run
+Open The File Named “Diabetes-Prediction.ipynb” And Execute Cells Sequentially To Observe Training Results.
+
+# Diabetes-Prediction (VS Code Python Script Version)
+
+This Python Script Performs Supervised Machine Learning To Predict Diabetes Using The Pima Indians Dataset. The Script Uses Classical ML Algorithms To Train Models, Evaluate Performance, And Save Outputs Automatically.
+
+## Techniques Used
+- Data Loading
+- Feature Selection
+- Train-Test Split
+- Random Forest Classifier
+- Logistic Regression Classifier
+- Model Evaluation
+- Accuracy Calculation
+
+## Output Files
+- Diabetes-Model-Results.txt
+- Diabetes-Prediction-Output.csv
+
+## Why Script Version
+This Script Version Is Designed For Standalone Execution In VS Code Or Terminal And Supports Automated Training And Evaluation Without Manual Interaction. It Is More Suitable For Deployment, Testing, And Integration With Other Projects.
+
+## Requirements
+Pandas  
+NumPy  
+Scikit-Learn  
+
+## How To Run From Terminal
+Python Diabetes-Prediction.py
+
+Thank You. 
